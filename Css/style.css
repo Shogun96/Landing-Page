@@ -1,0 +1,243 @@
+.bluebox {
+    background-color: #1F2937;
+    margin-block-start:-9px;
+    margin-inline-start: -9px;
+    margin-inline-end: -9px;
+}
+
+.Navigation {
+    display: flex;
+    align-items: baseline;
+}
+
+.MainOne {
+    margin-top: 50px;
+}
+
+.Headers {
+    margin-inline-start: 75%; 
+   
+
+    color: grey;
+}
+
+.h4 {
+    margin-inline-start: 5%;
+    color: white;
+
+}
+
+.btn {
+   margin-bottom: -75px;
+   display:flex;
+}
+
+.photo {
+    
+    margin-right: 10%;
+    margin-top: 2%;
+   
+}
+
+
+a {
+    text-decoration: none;
+    border: 10px  transparent;
+    color: rgb(207, 199, 199);
+    padding-right: 30px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: bolder;
+    
+}
+
+h4 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.awesome {
+    margin: 2px;
+    margin-right: 16.5%;
+    margin-left: 20%;
+    margin-bottom: 0px;
+}
+
+
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+
+}
+
+.Button {
+    font-size: 15px;
+    border: 10px solid #3882F6;
+    text-align: center;
+    margin-right: 70%;
+    color: white;
+    margin-left: 20%;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: -10px;;
+    margin-bottom: 100px;
+    
+    
+}
+
+.ButtonTwo {
+    font-size: 15px;
+    border: 2px solid white;
+    text-align: center;
+    color: white;
+    margin-left: 250%;
+    background-color: #3882F6;
+    border-radius: 8px;
+    margin-top:53%;
+    padding: 5px;;
+    margin-bottom: 100px;
+    width: 150px;
+    height: 40px;    
+    margin-left: 220%;
+    
+}
+
+.img {
+    margin-top: 3%;
+    margin-right: 15%;
+    margin-bottom: 3%;
+
+}
+
+.al {
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+h2 {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 48px;
+    
+}
+
+.sp {
+    color:#3882F6 ;
+    font-weight: bolder;
+    padding-bottom: 50px;
+    
+}
+
+img {
+    border: 4px solid #3882F6;
+    border-radius: 20px;
+    
+}
+
+.boxone {
+    height: 180px;
+    width: 180px;
+}
+
+.boxtwo {
+    height: 180px;
+    width: 180px;
+}
+
+
+.boxthree {
+    height: 180px;
+    width: 180px;
+}
+
+
+.boxfour {
+    height: 180px;
+    width: 180px;
+}
+
+.MainTwo {
+    margin-bottom: 20%;
+}
+
+.MainThree {
+    margin-block-start:-9px;
+    margin-inline-start: -9px;
+    margin-inline-end: -9px;
+    background-color: #E5E7EB;
+    padding: 17%;
+    color: #1F2937;
+}
+
+.Unu {
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;;
+    
+}
+
+.Doi {
+    float: right;
+    width: 300px;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bolder;
+
+}
+
+.Call {
+    display: flex;
+    background-color:#3882F6 ;
+    margin: auto;
+    width: 50%;
+    height: 200px;
+    width: 1200px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 20px;
+}
+
+.a {
+    
+    margin: 0;
+    height: 40%;
+    margin-left: 13%;
+    margin-top: 5%;
+    color: white;
+
+}
+
+
+.b {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.MainFive {
+    padding: 30px;
+    background-color: #1F2937;
+    margin-block-start:-9px;
+    margin-inline-start: -9px;
+    margin-inline-end: -9px;
+    margin-block-end: -9px;
+    text-align: center;
+    justify-content: center;
+}
+
+.Copyright {
+    color: white;
+    width: 300px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
